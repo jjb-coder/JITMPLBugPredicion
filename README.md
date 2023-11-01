@@ -1,8 +1,8 @@
 ## introduction
 This repository hosts the artifacts for the ICPC2024 paper entitled "Just-in-Time Multi-Language Bug Prediction:An Empirical Study on Apache Projects." Details are given below.
 ## BaseData
-### JiraIssue.csv
-The CSV file contains project, issue type, and key information from Jira.
+### JiraIssue.rar
+The file contains project, issue type, and key information from Jira.
 ### project_info.csv
 This CSV file contains basic information for various projects.
 ### CommitBug
