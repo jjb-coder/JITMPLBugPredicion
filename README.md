@@ -14,6 +14,5 @@ The CSV files in this folder store metric values collected for each commit in th
 ### CommitPrediction
 The CSV files in this folder store all the metrics used for predicting various projects.
 ## Code
-Paper-related code
 ---
 If you have any questions, please contact jjb_coder@163.com
