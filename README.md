@@ -1,5 +1,5 @@
-## introduction
-This repository hosts the artifacts for the paper entitled "Just-in-Time Multi-Language Bug Prediction:An Empirical Study on Apache Projects." The following will explain the replication package we provide.
+## Introduction
+This repository hosts the artifacts for the paper entitled "An Exploratory Study on Just-in-Time Multi-Programming-Language Bug Prediction." The following will explain the replication package we provide.
 ## BaseData
 ### JiraIssue.rar
 The file contains project, issue type, and key information from Jira.
